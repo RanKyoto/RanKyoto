@@ -10,21 +10,10 @@
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-3776AB?logo=cplusplus&logoColor=fff&style=flat)
 ![ROS Badge](https://img.shields.io/badge/ROS2-3776AB?logo=ROS&logoColor=fff&style=flat)
 
-<table border="0">
-  <tr><td>  
-	  
 - Hi, I’m Ran, Wang
 - I’m interested in deep reinforcement learning and robotics
 - Hobby: piano, swimming, Genshin
 - B.S.&M.S @ Dalian University of Technology
 - Now I'm studying at Kyoto University for a Doctoral degree.
-  </td>
-<td><div align="right">
-	
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RanKyoto&layout=compact)](https://github.com/RanKyoto/github-readme-stats)
-</div>
-    </td>
-</tr>
-</table>
   
 
