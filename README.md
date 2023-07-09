@@ -13,7 +13,7 @@
 - Hi, I’m Ran, Wang
 - I’m interested in deep reinforcement learning and robotics
 - Hobby: piano, swimming, Genshin
-- B.S.&M.S @ Dalian University of Technology
+- B.S.&M.S. Dalian University of Technology
 - Now I'm studying at Kyoto University for a Doctoral degree.
   
 
